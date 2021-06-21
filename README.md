@@ -1,5 +1,5 @@
 - @cielz
-- An Architect working in a German company
+- An Architect
 - Single
 - Clockwork Sun Burner
 
